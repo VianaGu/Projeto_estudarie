@@ -7,23 +7,23 @@
     flex-direction: column;
 
     
-    background-color: rgba(29, 27, 27, 0.04);
-    color: beige;
+    background-color: rgba(65, 202, 124);
+    color: rgba(229, 255, 83);
 
 }
 #top{
     display:inherit;
 
-    
+    padding-top: 10px;
     height: 10vh;
     margin: 40px auto;
 
-    background-color: blue;
+    background-color: rgba(46, 148, 90);
 }
 #link{
     background-color:darkcyan;
     height: 100vh;
     padding-top: 40px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
