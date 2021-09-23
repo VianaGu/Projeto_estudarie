@@ -19,8 +19,8 @@
     border-radius: 50%;
     /* padding-top: 10px; */
     
-    height: 50px;
-    width: 50px;
+    height: 102px;
+    width: 102px;
     margin: 40px auto 5px;
 
     background-color: rgba(46, 148, 90, 0.658);
@@ -29,7 +29,7 @@
     padding-bottom: 10px;
 }
 
-#link{
+.pag{
     color: white;
     font-size: large;
     background-image: linear-gradient(to bottom ,#41ca7c,#4DF093,#96F2BE);
