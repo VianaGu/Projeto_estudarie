@@ -6,8 +6,9 @@
     width: 100vw;
     display: flex;
     flex-direction: column;
-    padding: 2rem 4rem;
     
+    align-content: center
+    ;
     
     color: rgba(229, 255, 83);
     background-attachment: fixed;
