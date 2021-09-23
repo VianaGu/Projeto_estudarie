@@ -2,7 +2,7 @@
 .body{
     background-image: linear-gradient(to bottom ,#528fa5,#81D2F0,#CBE8F2);
     text-align: center;
-    height: 100vh;
+    height: 100vw;
     width: 100vw;
     display: flex;
     flex-direction: column;
@@ -31,12 +31,12 @@
 
 #link{
     color: white;
-    font-size: 2rem;
+    font-size: large;
     background-image: linear-gradient(to bottom ,#41ca7c,#4DF093,#96F2BE);
     height: 5vw;
     padding: auto 40px;
-    margin-left: 350px;
-    margin-right: 350px;
+        margin-left: 350px;
+        margin-right: 350px;
     
 }
 
@@ -44,5 +44,7 @@
     #link{
         font-size:small;
         padding: auto 10px;
+        margin-left: 300px;
+    margin-right: 300px;
     }
 }
